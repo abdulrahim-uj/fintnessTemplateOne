@@ -1,0 +1,2 @@
+# fintnessTemplateOne
+responsive static design 
